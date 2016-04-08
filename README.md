@@ -4,4 +4,4 @@ Test Repository
 Hi people,
 
 
-Alesia here. I'm studying test test how to use GitHub. 
+Alesia here. I'm studying test how to use GitHub. 
