@@ -1,7 +1,7 @@
 # hello-world
 Test Repository
 
-hi people,
+Hi people,
 
 
 Alesia here. I'm studying how to use GitHub. 
